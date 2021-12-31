@@ -1,4 +1,4 @@
-The Long Dark - TLD StickPick mod - v1.0.0 by Digitalzombie
+The Long Dark - TLD Fireworks mod - v0.8.0 by Digitalzombie
 ===========================================================
 
 How to install:
@@ -22,11 +22,11 @@ You can find everything on: https://xpazeman.com/tld-mod-list/
 What does it do?
 =================
 
-Picks up sticks and stones in a radius around you.
+Adds fireworks effects to the flaregun and lets you choose a few options.
+Most options are *very* work-in-progress. No sound :(
+Loadtimes get a bit longer, there are a lot of effects. Some classics, some more "modern".
 
-You can configure the size of the radius, 
-the calorie penalty for picking up items,
-and choose if only sticks / stones or both get picked up.
+Just a bit of fun :)
 
 ===========================
 ===========================
@@ -48,4 +48,4 @@ https://discord.gg/AqpW9TjUfr
 
 Changelog:
 ==========
-1.0.0 - First release
+0.8.0 - First release
